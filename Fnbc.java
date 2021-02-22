@@ -78,7 +78,6 @@ public class Fnbc {
             for (int i = count - 1; i >= 0; i--) {
                 resp += aux.charAt(i);
             }
-            System.out.println("out");
         } catch (Exception e) {
             System.out.println("ERRO Fnbc - Method dec2hex");
             resp = "";
