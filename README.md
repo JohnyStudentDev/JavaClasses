@@ -1,5 +1,5 @@
 # JavaClasses
-> Code by JohnyStudent :+1:
+> Code by JohnyStudent :br:
 ### // Objective: Some java classes that can help you with some problems
 ## // Please do it:
   - Read all comments (introduction and explanation);
