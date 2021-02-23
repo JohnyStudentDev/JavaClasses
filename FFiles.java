@@ -5,7 +5,7 @@
  * Java class that contains methods to play with .TXT files
  * @author: JohnyStudent
  * @date: 23 Fev 2021
- * @version: v1.0
+ * @version: v2.1
  */
 
 // Reference: https://github.com/gilbertotoledo/curso-java/blob/main/Aula%2012/src/aula12/Arquivo.java
