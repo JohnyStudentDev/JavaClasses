@@ -3,7 +3,7 @@
  * Java class that contains methods to convert the number base
  * @author: JohnyStudent
  * @date: 22 Fev 2021
- * @version: v1.0
+ * @version: v2.1
  */
 import java.util.*;
 import java.lang.Math;
