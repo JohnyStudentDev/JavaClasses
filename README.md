@@ -15,3 +15,5 @@
   - **FFiles v1.0**: Functions to use with files.txt {*Read all the file*; *Print all the file*; *Write in the file*;}
   - **FFiles v2.0**: The same as v1.0 plus one more function {*Read just a N line from the file*;}
   - **FFiles v2.1**: **CURRENT**: Just a *few adjustments* to the functions;
+3. **FArray**: This is a *function class* to use with arrays:
+  - **FArray v1.0**: **CURRENT**: Funtion to use with arrays {*Print all the array*; *descending and ascending sort*; *clone array*; *search a value*; *count values*;}
