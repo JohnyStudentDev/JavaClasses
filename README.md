@@ -10,7 +10,7 @@
 1. **Fnbc**: This is a *function class* for **Number base converter**:
   - **Fnbc v1.0**: Functions for **Number base converter** {*Binary to Decimal*; *Decimal to Binary*; *Decimal to Hexadecimal*;}
   - **Fnbc v2.0**: The same as v1.0 plus some functions {*Hexadecimal to Decimal*; *Hexadecimal to Binary*; *Binary to Hexadecimal*;}
-  - **Fnbc v2.1**: **CURRENT**: The same as V2.0 plus some functions that *can print on the screen all the bases of a number*;
+  - **Fnbc v2.1**: **CURRENT**: The same as v2.0 plus some functions that *can print on the screen all the bases of a number*;
 2. **FFiles**: This is a *function class* to **Play with Files.txt**:
   - **FFiles v1.0**: Functions to use with files.txt {*Read all the file*; *Print all the file*; *Write in the file*;}
   - **FFiles v2.0**: The same as v1.0 plus one more function {*Read just a N line from the file*;}
