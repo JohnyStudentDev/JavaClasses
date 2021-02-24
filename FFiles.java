@@ -119,9 +119,9 @@ public class FFiles {
     public static boolean write (String path, String text) {
         try {
             FileWriter fp = new FileWriter(path);
-            PrintWriter gravarArq = new PrintWriter(fp);
-            gravarArq.println(text);
-            gravarArq.close();
+            PrintWriter impressFile = new PrintWriter(fp);
+            impressFile.println(text);
+            impressFile.close();
             return true;
         } catch(IOException e){
             System.out.println("Erro FFiles - Method Write");
