@@ -169,5 +169,4 @@ public class Fnbc {
         System.out.println("Binary: " + hex2bin(numHex));
         System.out.println("Hexadecimal: " + numHex);
     }
-    
 }
