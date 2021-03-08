@@ -17,3 +17,5 @@
   - **FFiles v2.1**: **CURRENT**: Just a *few adjustments* to the functions;
 3. **FArray**: This is a *function class* to **Use with Arrays**:
   - **FArray v1.0**: **CURRENT**: Funtion to use with arrays {*Print all the array*; *descending and ascending sort*; *clone array*; *search a value*; *count values*;}
+4. **Fpa**: This is a *function class* to **Use with Arithmetic progression (PA)**:
+  - **Fpa v1.0**: **CURRENT**: Functions like {create a PA array; print a PA; if a number is inside a PA; what is that number position inside the PA;}
