@@ -1,5 +1,4 @@
 /**
- * Array
  * CLASS - FUNCTIONS
  * 
  * Java class that contains methods use with arithmetic progression (PA)
