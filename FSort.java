@@ -1,3 +1,12 @@
+/**
+ * CLASS - FUNCTIONS
+ * 
+ * Java class that contains methods to use for vector sorting
+ * @author: JohnyStudent
+ * @date: 17 Mar 2021
+ * @version: v1.0
+ */
+
 import java.util.*;
 
 class FSort {
