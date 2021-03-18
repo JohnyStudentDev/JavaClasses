@@ -3,7 +3,7 @@
  * Java class that contains methods for sorting a vector
  * @author: JohnyStudent
  * @date: 17 Mar 2021
- * @version: v2.0
+ * @version: v2.1
  */
 import java.util.*;
 
