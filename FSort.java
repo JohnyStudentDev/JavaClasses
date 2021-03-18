@@ -163,7 +163,7 @@ class FSort {
             quicksort(array, i, right);
     }
     public void showQuicksort (int[] array) {
-        uicksort(array, 0, array.length - 1);
+        showQuicksort(array, 0, array.length - 1);
         System.out.print("Quicksort[Final]: ");
         showArray(array);
     }
